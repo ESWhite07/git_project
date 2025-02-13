@@ -5,3 +5,4 @@ print (hello_world)
 
 #Next we will seperate every word on a different line
 #Loop through each letter in the word
+for letter in hello_world:
