@@ -7,3 +7,5 @@ print (hello_world)
 #Loop through each letter in the word
 for letter in hello_world:
    #Print each letter on a new line
+   print(letter)
+   
